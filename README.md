@@ -15,3 +15,21 @@ Then, for some things, the responsibility depends on the situation.
 cloud service types (covered later in this learning path): infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). IaaS places the most responsibility on the consumer, with the cloud provider being responsible for the basics of physical security, power, and connectivity. On the other end of the spectrum, SaaS places most of the responsibility with the cloud provider. PaaS, being a middle ground between IaaS and SaaS, rests somewhere in the middle and evenly distributes responsibility between the cloud provider and the consumer.
 
 <img src="https://learn.microsoft.com/en-us/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg" alt="Visual representation">
+
+You’ll always be responsible for:
+
+The information and data stored in the cloud
+Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
+The accounts and identities of the people, services, and devices within your organization
+The cloud provider is always responsible for:
+
+The physical datacenter
+The physical network
+The physical hosts
+Your service model will determine responsibility for things like:
+
+Operating systems
+Network controls
+Applications
+Identity and infrastructure
+
