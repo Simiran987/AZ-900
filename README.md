@@ -35,6 +35,7 @@ Identity and infrastructure
 
 ### What are cloud models?
 What are cloud models? The cloud models define the deployment type of cloud resources. The three main cloud models are: private, public, and hybrid.
+
 Private Cloud: 1) used by a single entity
                2) much greater control for the company and its IT departmen
                3) greater cost and fewer of the benefits of a public cloud deployment
