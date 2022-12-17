@@ -54,8 +54,9 @@ What are cloud models? The cloud models define the deployment type of cloud reso
 #### Hybrid Cloud: 
               1) uses both public and private clouds in an inter-connected environment
               2) can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources
-              3) Hybrid cloud can be used to provide an extra layer of security. For example, 
-              users can flexibly choose which services to keep in public cloud and which to deploy to their private cloud infrastructure
+              3) Hybrid cloud can be used to provide an extra layer of security.
+              For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private 
+              cloud infrastructure
              
 #### Multi-cloud
 
