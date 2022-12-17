@@ -36,19 +36,22 @@ Identity and infrastructure
 ### What are cloud models?
 What are cloud models? The cloud models define the deployment type of cloud resources. The three main cloud models are: private, public, and hybrid.
 
-Private Cloud: 1) used by a single entity
+#### Private Cloud: 
+               1) used by a single entity
                2) much greater control for the company and its IT departmen
                3) greater cost and fewer of the benefits of a public cloud deployment
                4) may be hosted from your on site datacenter or  be hosted in a dedicated datacenter offsite, potentially even by a third party that has dedicated that datacenter to your company
 
-Public Cloud: 1) Built, controlled, and maintained by a third-party cloud provider
+#### Public Cloud: 
+              1) Built, controlled, and maintained by a third-party cloud provider
               2) anyone that wants to purchase cloud services can access and use resources
               
-Hybrid Cloud: 1) uses both public and private clouds in an inter-connected environment
+#### Hybrid Cloud: 
+              1) uses both public and private clouds in an inter-connected environment
               2) can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources
               3) Hybrid cloud can be used to provide an extra layer of security. For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private cloud infrastructure
              
-Multi-cloud
+#### Multi-cloud
 
 ### What is Azure Arc ?
 A. Azure Arc is a set of technologies that helps manage your cloud environment. 
