@@ -65,3 +65,10 @@ A. Azure Arc is a set of technologies that helps manage your cloud environment.
 ### Azure VMware Solution
 A. What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
 
+### Consumption based model
+This consumption-based model has many benefits, including:
+
+No upfront costs.
+No need to purchase and manage costly infrastructure that users might not use to its fullest potential.
+The ability to pay for more resources when they're needed.
+The ability to stop paying for resources that are no longer needed.
