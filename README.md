@@ -124,8 +124,8 @@ Instead of maintaining CPUs and storage in your datacenter, you rent them for th
 
 #### High Availability -
 Multiple Datacenters and multiple servers<br>
-**Azure Load Balancer**<br>
-A load balancer would evenly distribute traffic to multiple servers in one or more datacenters and if a datacenter or server becomes unavailable (unhealthy), it will route to only available datacenters with servers to ensure availability.
+ **Azure Load Balancer**<br>
+  A load balancer would evenly distribute traffic to multiple servers in one or more datacenters and if a datacenter or server becomes unavailable (unhealthy), it will route to only available datacenters with servers to ensure availability.
 
 #### High Scalability -
 1. Vertical Scaling - (Scaling Up) Upgrade to a bigger server.
