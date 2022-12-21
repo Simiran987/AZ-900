@@ -50,8 +50,8 @@ Network controls
 Applications
 Identity and infrastructure
 
-### What are cloud models?
-What are cloud models? The cloud models define the deployment type of cloud resources. The three main cloud models are: private, public, and hybrid.
+### Azure's Deployment Models
+The cloud models define the deployment type of cloud resources. The three main cloud models are: private, public, and hybrid.
 
 #### Private Cloud: 
                1) used by a single entity
