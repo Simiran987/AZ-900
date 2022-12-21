@@ -61,8 +61,9 @@ The cloud models define the deployment type of cloud resources. The three main c
                potentially even by a third party that has dedicated that datacenter to your company
 
 #### Public Cloud: 
-              1) Built, controlled, and maintained by a third-party cloud provider
-              2) anyone that wants to purchase cloud services can access and use resources
+Everything is built on the cloud. Also known as Cloud-Native. 
+  1. Built, controlled, and maintained by a third-party cloud provider
+  2. anyone that wants to purchase cloud services can access and use resources
               
 #### Hybrid Cloud: 
               1) uses both public and private clouds in an inter-connected environment
