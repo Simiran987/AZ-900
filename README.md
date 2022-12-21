@@ -35,22 +35,26 @@ A.
 <img src="https://learn.microsoft.com/en-us/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg" alt="Visual representation">
 
 **You’ll always be responsible for:**
+<ul>
+<li>The information and data stored in the cloud</li>
+<li>Devices that are allowed to connect to your cloud (cell phones, computers, and so on)</li>
+<li>The accounts and identities of the people, services, and devices within your organization</li>
+</ul>
 
-The information and data stored in the cloud
-Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
-The accounts and identities of the people, services, and devices within your organization
-The cloud provider is always responsible for:
-
-The physical datacenter
-The physical network
-The physical hosts
+**The cloud provider is always responsible for:**
+<ul>
+<li>The physical datacenter</li>
+<li>The physical network</li>
+<li>The physical hosts</li>
+</ul>
 
 **Your service model will determine responsibility for things like:**
-
-Operating systems
-Network controls
-Applications
-Identity and infrastructure
+<ul>
+<li>Operating systems</li>
+<li>Network controls</li>
+<li>Applications</li>
+<li>Identity and infrastructure</li>
+</ul>
 
 <hr>
 
