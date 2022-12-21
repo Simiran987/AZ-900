@@ -74,13 +74,14 @@ Using both On-Premise and a Cloud Service Provider.
         For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private 
               cloud infrastructure
              
-#### Multi-cloud
-
-### What is Azure Arc ?
-A. Azure Arc is a set of technologies that helps manage your cloud environment. 
+#### Cross-Cloud / Multi-cloud
+Azure Arc is a set of technologies that helps manage your cloud environment as it extends the user's control plane.
 
 ### Azure VMware Solution
 A. What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
+
+### Total Cost of Ownership
+
 
 ### Consumption based model
 This consumption-based model has many benefits, including:
