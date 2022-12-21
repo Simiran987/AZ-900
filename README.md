@@ -2,14 +2,13 @@
 
 ## Microsoft Azure Fundamentals: Describe cloud concepts
 
-### Name of temporary Azure portal environment available in the exercises?
-A. Sandbox
-
 ### What is Cloud Computing?
 A.  _The practice of using a network of remote servers hosted on the internet to store, manage and process data, rather a local server or personal computer._
 
 Cloud computing is the delivery of computing services over the internet. Computing services include common IT infrastructure such as virtual machines, storage, databases, and networking.Cloud services also expand the traditional IT offerings to include things like Internet of Things (IoT), machine learning (ML), and artificial intelligence (AI).
             Mainly, every cloud provider provides a) Compute Power and b) Storage
+
+i. Dedicated Server, ii.Virtual Private Server, iii.Shared Hosting
 
 ### What is shared responsibility?
 A.With the shared responsibility model, the responsibilities earlier only available to a traditional datacenter, now get shared between the cloud provider and the consumer. Physical security, power, cooling, and network connectivity are the responsibility of the cloud provider. The consumer isn’t collocated with the datacenter, so it wouldn’t make sense for the consumer to have any of those responsibilities.
