@@ -28,14 +28,11 @@ Cloud computing is the delivery of computing services over the internet. Computi
           Example - Microsoft Azure, AWS, Oracle Cloud. ~For Administrators~
 
 ### Types of Cloud Computing Services
-
-
-### What is shared responsibility?
 A.
 
 <img src="https://learn.microsoft.com/en-us/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg" alt="Visual representation">
 
-You’ll always be responsible for:
+**You’ll always be responsible for:**
 
 The information and data stored in the cloud
 Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
@@ -45,7 +42,8 @@ The cloud provider is always responsible for:
 The physical datacenter
 The physical network
 The physical hosts
-Your service model will determine responsibility for things like:
+
+**Your service model will determine responsibility for things like:**
 
 Operating systems
 Network controls
