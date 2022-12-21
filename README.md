@@ -2,13 +2,33 @@
 
 ## Microsoft Azure Fundamentals: Describe cloud concepts
 
-### What is Cloud Computing?
+### Cloud Computing?
 A.  _The practice of using a network of remote servers hosted on the internet to store, manage and process data, rather a local server or personal computer._
 
 Cloud computing is the delivery of computing services over the internet. Computing services include common IT infrastructure such as virtual machines, storage, databases, and networking.Cloud services also expand the traditional IT offerings to include things like Internet of Things (IoT), machine learning (ML), and artificial intelligence (AI).
             Mainly, every cloud provider provides a) Compute Power and b) Storage
 
-i. Dedicated Server, ii.Virtual Private Server, iii.Shared Hosting
+**i. Dedicated Server, ii.Virtual Private Server, iii.Shared Hosting, iv. Cloud Hosting**
+
+**Benefits of Cloud Computing**
+1. Cost effective
+2. Global
+3. Secure
+4. Reliable
+5. Scalable
+6. Elastic
+7. Current
+
+### Types of Cloud Computing
+1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
+        Example - Salesforce, Gmail, Office 365. ~For Customers~
+2. PaaS - Focus on the deployment and management of your apps. _Don't worry about provisioning, configuring and understanding the Hardware or OS._
+          Example - Beanstalk, AWS Heroku, Google App Engine. ~For Developers~
+3. IaaS - Provides access to networking features, computers and data storage space.  _Don't worry about IT staff, data centres and hardware._
+          Example - Microsoft Azure, AWS, Oracle Cloud. ~For Administrators~
+
+### Types of Cloud Computing Services
+
 
 ### What is shared responsibility?
 A.With the shared responsibility model, the responsibilities earlier only available to a traditional datacenter, now get shared between the cloud provider and the consumer. Physical security, power, cooling, and network connectivity are the responsibility of the cloud provider. The consumer isn’t collocated with the datacenter, so it wouldn’t make sense for the consumer to have any of those responsibilities.
