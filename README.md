@@ -123,8 +123,8 @@ Instead of maintaining CPUs and storage in your datacenter, you rent them for th
 * Disaster Recovery - Your ability to recover from a failure **Highly Durable (HD)**
 
 #### High Availability -
-Multiple Datacenters and multiple servers
-**Azure Load Balancer**
+Multiple Datacenters and multiple servers<br>
+**Azure Load Balancer**<br>
 A load balancer would evenly distribute traffic to multiple servers in one or more datacenters and if a datacenter or server becomes unavailable (unhealthy), it will route to only available datacenters with servers to ensure availability.
 
 #### High Scalability -
@@ -132,9 +132,10 @@ A load balancer would evenly distribute traffic to multiple servers in one or mo
 2. Horizontal Scaling - (Scaling Out) Add more servers of the same size.
 
 #### High Elasticity -
-Automatically adding or removing servers to increase or decrease capacity based on the current demand of traffic, memory and computing power.
-_Horizontal Scaling_  Scaling Out- Add more servers of the same size
-                      Scaling In- Remove more servers of the same size
-**Azure VM Scale Sets** 
+Automatically adding or removing servers to increase or decrease capacity based on the current demand of traffic, memory and computing power.<br>
+_Horizontal Scaling_ <br>
+- Scaling Out- Add more servers of the same size<br>
+-  Scaling In- Remove more servers of the same size<br>
+**Azure VM Scale Sets** <br>
 Automatically increase or decrease in response to demand or a defined schedule.
 
