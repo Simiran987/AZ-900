@@ -124,7 +124,7 @@ Instead of maintaining CPUs and storage in your datacenter, you rent them for th
 
 #### High Availability -
 Multiple Datacenters and multiple servers<br>
- ##### Azure Load Balancer<br>
+ **Azure Load Balancer**<br>
   A load balancer would evenly distribute traffic to multiple servers in one or more datacenters and if a datacenter or server becomes unavailable (unhealthy), it will route to only available datacenters with servers to ensure availability.
 
 #### High Scalability -
@@ -136,6 +136,6 @@ Automatically adding or removing servers to increase or decrease capacity based 
 _Horizontal Scaling_ <br>
 - Scaling Out- Add more servers of the same size<br>
 -  Scaling In- Remove more servers of the same size<br>
- ##### Azure VM Scale Sets <br>
+ **Azure VM Scale Sets**<br>
 Automatically increase or decrease in response to demand or a defined schedule.
 
