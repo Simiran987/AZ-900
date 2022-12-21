@@ -116,4 +116,8 @@ Instead of maintaining CPUs and storage in your datacenter, you rent them for th
 <hr>
 
 ### Cloud Architecture Terminologies
-
+* Availability - Your ability to ensure service remains available **Highly Available (HA)**
+* Scalability - Your ability to grow rapidly or unimpeded
+* Elasticity - Your ability to shrinnk and grow to meet the demand
+* Fault Tolerance - Your ability to prevent a failure
+* Disaster Recovery - Your ability to recover from a failure **Highly Durable (HD)**
