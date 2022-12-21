@@ -19,6 +19,8 @@ Cloud computing is the delivery of computing services over the internet. Computi
 6. Elastic
 7. Current
 
+<hr>
+
 ### Types of Cloud Computing
 1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
         Example - Salesforce, Gmail, Office 365. ~For Customers
@@ -50,6 +52,8 @@ Network controls
 Applications
 Identity and infrastructure
 
+<hr>
+
 ### Azure's Deployment Models
 The cloud models define the deployment type of cloud resources. The three main cloud models are: private, public, and hybrid.
 
@@ -77,8 +81,12 @@ Using both On-Premise and a Cloud Service Provider.
 #### Cross-Cloud / Multi-cloud
 Azure Arc is a set of technologies that helps manage your cloud environment as it extends the user's control plane.
 
+<hr>
+
 ### Azure VMware Solution
 A. What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
+
+<hr>
 
 ### Total Cost of Ownership
 
