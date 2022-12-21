@@ -54,22 +54,24 @@ Identity and infrastructure
 The cloud models define the deployment type of cloud resources. The three main cloud models are: private, public, and hybrid.
 
 #### Private Cloud: 
-               1) used by a single entity
-               2) much greater control for the company and its IT departmen
-               3) greater cost and fewer of the benefits of a public cloud deployment
-               4) may be hosted from your on site datacenter or  be hosted in a dedicated datacenter offsite,
+Everything built on company's datacenters. Also known as On-Premise. The cloud could be OpenStack.
+  1. Used by a single entity
+  2. Much greater control for the company and its IT departmen
+  3. Greater cost and fewer of the benefits of a public cloud deployment
+  4. May be hosted from your on site datacenter or  be hosted in a dedicated datacenter offsite,
                potentially even by a third party that has dedicated that datacenter to your company
 
 #### Public Cloud: 
-Everything is built on the cloud. Also known as Cloud-Native. 
+Everything is built on the cloud provider. Also known as Cloud-Native. 
   1. Built, controlled, and maintained by a third-party cloud provider
-  2. anyone that wants to purchase cloud services can access and use resources
+  2. Anyone that wants to purchase cloud services can access and use resources
               
 #### Hybrid Cloud: 
-              1) uses both public and private clouds in an inter-connected environment
-              2) can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources
-              3) Hybrid cloud can be used to provide an extra layer of security.
-              For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private 
+Using both On-Premise and a Cloud Service Provider. 
+  1. Uses both public and private clouds in an inter-connected environment
+  2. Can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources
+  3. Hybrid cloud can be used to provide an extra layer of security.
+        For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private 
               cloud infrastructure
              
 #### Multi-cloud
