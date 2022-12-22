@@ -144,7 +144,8 @@ Automatically increase or decrease in response to demand or a defined schedule.
 <hr>
 
 ### Evolution of Computing
-*Dedicated* => **_Cons_**<br>
+*Dedicated* =><br>
+              **_Cons_**<br>
               Wholly utilized by a single customer<br>
               **_Pros_**<br>
               Guarantee of security, privacy and full utility of underlying resources<br>
