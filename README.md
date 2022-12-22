@@ -138,4 +138,33 @@ _Horizontal Scaling_ <br>
 -  Scaling In- Remove more servers of the same size<br>
  **Azure VM Scale Sets**<br>
 Automatically increase or decrease in response to demand or a defined schedule.
+**SQL Server Stretch Database**<br>
 
+#### High Durability -
+<hr>
+
+### Evolution of Computing
+*Dedicated* => *Cons*
+              Wholly utilized by a single customer
+              *Pros*
+              Guarantee of security, privacy and full utility of underlying resources
+*VMs* => mutliple virtual machines on one machine through - Hypervisor
+         *Cons*
+         Multiple apps on a single virtual machine can result in conflicts in resource sharing.
+         
+*Containers* =>  Virtual machines running on multiple containers using Docker Daemon
+                 *Pros*
+                 Maximum utilization of the available capacity so cost-effective
+                 Containers are more efficient than multiple VMs, as they share the same underlying OS
+                 Multiple apps can run side by side and will not cause conflicts in resource sharing
+              
+*Functions* => A managed VM running managed containers, known as Serverless Compute
+               *Pros*
+               Ver cost-effective
+               *Cons*
+               Cold Starts are a side-effect of this setup
+           
+<hr>
+
+### Global Infrastructure - Regions and Geographies
+         
