@@ -169,4 +169,6 @@ Automatically increase or decrease in response to demand or a defined schedule.
 <hr>
 
 ### Global Infrastructure - Regions and Geographies
-         
+A **region** is a grouping of multiple datacenters. (Availability zones)
+=> Azure has 58 regions available across 140 countries
+
