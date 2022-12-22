@@ -177,3 +177,10 @@ A **Geography** is discreet market of two or more regions that preserves **data 
 **Paired Regions** => Each region is paired with another region 300 miles away.<br>
 
 Only one region is updated at a time to ensure no outages.<br>
+
+Some Azure services rely on Paired Regions for Disaster Recovery.<br>
+**E.g. Azure Geo-redundant Storage (GRS)**
+
+#### Region Types and Service Availability
+1. Recommended Regions
+2. Alternate (other) regions
