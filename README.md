@@ -192,3 +192,12 @@ Azure cloud services are grouped into three categories-
 * Specialized - Available in Recommeded or Alternate region based on customer demand.
 
 #### Special Regions
+Azure has specialized regions to meet compliance or legal regions.
+
+#### Availability Zones
+An Availability Zone is physical location made up of one or more datacenter.
+* A region will generally contain 3 availability zones.
+
+#### AZ Supported Regions
+
+#### Availability Sets Fault and Update Domains
