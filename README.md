@@ -183,4 +183,10 @@ Some Azure services rely on Paired Regions for Disaster Recovery.<br>
 
 #### Region Types and Service Availability
 1. Recommended Regions
-2. Alternate (other) regions
+2. Alternate (other) regions<br>
+
+*General availability (GA)* is when a service is considered ready to be used publicly by everyone.<br>
+Azure cloud services are grouped into three categories-
+* Foundational - When GA immediately or in 12 months in Recommended or Alternate regions.
+* Mainstream - When GA immediately or in 12 months in Recommended regions. May become available in Alternate region based on customer demand.
+* Specialized - Available in Recommeded or Alternate region based on customer demand.
