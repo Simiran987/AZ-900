@@ -144,25 +144,25 @@ Automatically increase or decrease in response to demand or a defined schedule.
 <hr>
 
 ### Evolution of Computing
-*Dedicated* => *Cons*<br>
+*Dedicated* => **_Cons_**<br>
               Wholly utilized by a single customer<br>
-              *Pros*<br>
+              **_Pros_**<br>
               Guarantee of security, privacy and full utility of underlying resources<br>
               
 *VMs* => mutliple virtual machines on one machine through - Hypervisor<br>
-         *Cons*<br>
+         **_Cons_**<br>
          Multiple apps on a single virtual machine can result in conflicts in resource sharing.<br>
          
 *Containers* =>  Virtual machines running on multiple containers using Docker Daemon<br>
-                 *Pros*<br>
+                 **_Pros_**<br>
                  Maximum utilization of the available capacity so cost-effective<br>
                  Containers are more efficient than multiple VMs, as they share the same underlying OS<br>
                  Multiple apps can run side by side and will not cause conflicts in resource sharing<br>
               
 *Functions* => A managed VM running managed containers, known as Serverless Compute<br>
-               *Pros*<br>
+               **_Pros_**<br>
                Ver cost-effective<br>
-               *Cons*<br>
+               **_Cons_**<br>
                Cold Starts are a side-effect of this setup<br>
            
 <hr>
