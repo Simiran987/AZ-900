@@ -190,3 +190,5 @@ Azure cloud services are grouped into three categories-
 * Foundational - When GA immediately or in 12 months in Recommended or Alternate regions.
 * Mainstream - When GA immediately or in 12 months in Recommended regions. May become available in Alternate region based on customer demand.
 * Specialized - Available in Recommeded or Alternate region based on customer demand.
+
+#### Special Regions
