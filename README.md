@@ -219,3 +219,21 @@ An Availability Zone (AZ) in an Azure region is a combination of a fault domain 
 <hr>
 
 ### Storage Services
+* Azure Blob Storage - *Object Serverless Storage
+* Azure Disk Storage
+* Azure File Storage
+* *Azure Queue Storage *Messaging Queue
+* *Azure Table Storage *Wide-Column No-SQL Database
+* Azure Data box/ Azure Databox Heavy
+* Azure Archive Storage
+* Azure Data Lake Storage
+
+### Database Storage
+* Azure Cosmos DB - *No SQL Databases
+* Azure SQL Database - *Fully Managed MS SQL Databases
+* Azure Database for MySQL/PQL/MariaDB - *MySQL/PostgreSQL/Maria DB Database
+* SQL Server on VMs
+* Azure Synapse Analytics (Azure SQL Data Warehouse) - *Data Warehouse
+* Azure Database Migration Service
+* Azure Cache for Redis - *Caches
+* *Azure Table Storage - *Wide Column NoSQL Database
