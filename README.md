@@ -201,5 +201,6 @@ An Availability Zone is physical location made up of one or more datacenter.
 #### AZ Supported Regions
 
 #### Availability Sets Fault and Update Domains
-An Availability Zone (AZ) in an Azure region is a combination of a fault domain and an update domain.
-**Fault Domain** 
+An Availability Zone (AZ) in an Azure region is a combination of a fault domain and an update domain.<br>
+**Fault Domain** - A logical grouping of hardware to avoid a single point of failure within an AZ. Group of virtual machines that share a common power source and network switch.
+**Update Domain** - Azure may need to apply updates to the underlying hardware and software. Update domains ensure your resources do not go offline.
