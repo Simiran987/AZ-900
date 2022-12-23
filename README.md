@@ -210,30 +210,43 @@ An Availability Zone (AZ) in an Azure region is a combination of a fault domain 
 
 ### Computing Services
 * Azure Virtual Machines (VMs)
-* Azure Container Instances - Docker as a Service
-* Azure Kubernetes Services (AKS) - Kubernetes as a Service
-* Azure Service Fabric - Tier-1 Enterprise Containers as a Service
+* Azure Container Instances - _Docker as a Service_
+* Azure Kubernetes Services (AKS) - _Kubernetes as a Service_
+* Azure Service Fabric - _Tier-1 Enterprise Containers as a Service_
 * Azure Functions 
 * Azure Batch
 
 <hr>
 
 ### Storage Services
-* Azure Blob Storage - *Object Serverless Storage
+* Azure Blob Storage - _Object Serverless Storage_
 * Azure Disk Storage
 * Azure File Storage
-* *Azure Queue Storage *Messaging Queue
-* *Azure Table Storage *Wide-Column No-SQL Database
+* *Azure Queue Storage _Messaging Queue_
+* *Azure Table Storage _Wide-Column No-SQL Database_
 * Azure Data box/ Azure Databox Heavy
 * Azure Archive Storage
 * Azure Data Lake Storage
 
+<hr>
+
 ### Database Storage
-* Azure Cosmos DB - *No SQL Databases
-* Azure SQL Database - *Fully Managed MS SQL Databases
-* Azure Database for MySQL/PQL/MariaDB - *MySQL/PostgreSQL/Maria DB Database
+* Azure Cosmos DB - _No SQL Databases_
+* Azure SQL Database - _Fully Managed MS SQL Databases_
+* Azure Database for MySQL/PQL/MariaDB - _MySQL/PostgreSQL/Maria DB Database_
 * SQL Server on VMs
-* Azure Synapse Analytics (Azure SQL Data Warehouse) - *Data Warehouse
+* Azure Synapse Analytics (Azure SQL Data Warehouse) - _Data Warehouse_
 * Azure Database Migration Service
-* Azure Cache for Redis - *Caches
-* *Azure Table Storage - *Wide Column NoSQL Database
+* Azure Cache for Redis - _Caches
+* *Azure Table Storage - _Wide Column NoSQL Database_
+
+<hr>
+
+### Application Integration
+* Azure Notifications Hub - _Pub/Sub_
+* Azure API Apps - _API Gateway_
+* Azure Service Bus - _Service Bus_
+* Azure Stream Analytics - _Real-time analytics_
+* Azure logic Apps
+* Azure API Management
+* *Azure Queue Storage _Messaging Queue_
