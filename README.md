@@ -201,3 +201,5 @@ An Availability Zone is physical location made up of one or more datacenter.
 #### AZ Supported Regions
 
 #### Availability Sets Fault and Update Domains
+An Availability Zone (AZ) in an Azure region is a combination of a fault domain and an update domain.
+**Fault Domain** 
