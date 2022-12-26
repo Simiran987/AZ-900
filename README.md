@@ -505,3 +505,70 @@ Two tiers of DDoS Protection
 <hr>
 
 ### Azure Firewall
+cloud-based network security-service
+**Features**
+1. Across subscriptions
+2. Static public IP address
+3. No additional load balancers are required
+4. Span multiple AZs for increased availability
+5. No additional cost for a firewall deployed in a Availability Zone
+6. Additional costs for inbound and outbound data transfers
+
+<hr>
+
+### Azure Information Protection (AIP)
+Protects sensitive information
+
+<hr>
+
+### Application Gateway
+web traffic load balancer (Layer 7 HTTP)
+
+<hr>
+
+### Advanced Threat Protection (ATP)
+_leverages your on-premise Active Directory_
+* identify, detect and investigate advanced threats, compromised identities and malicious insider actions
+
+<hr>
+
+### Microsoft Security Development Lifecycle (SDL)
+* industry-leading software security assurance process
+
+<hr>
+
+### Azure Policies
+A service you can create, assign and manage policies. A policy allows you to enforce or control the properties of a resource
+*JSON format known as **Policy Definitions**
+
+<hr>
+
+### Role-Based Access Control (RBAC)<br>
+Helps you manage who has access to Azure Resources
+* User - An individual who has a profile in Azure AD
+* Group -  A set of users created in Azure AD
+* Service Principal - A security identity used by applications or services to access specific Azure resources.
+* Managed Identity - An identity in Azure AD that is automatically managed by Azure
+* Scope - set of resources
+* Role Definition - collection of permissions to read, grant, create, update, delete
+
+<hr>
+
+### Lock resources
+lock a subscription, resource group or resource
+* CanNotDelete
+* ReadOnly
+
+<hr>
+
+### Azure Management Groups
+
+<hr>
+
+### Azure Monitor
+For collecting, analyzing and acting on telemetry
+
+<hr>
+
+### Service Health
+current and upcoming issues
