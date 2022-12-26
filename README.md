@@ -448,6 +448,18 @@ browser-accessible shell _either Bash or PowerShell_
 8) Service Organization Controls (SOC) 1,2, and 3
 9) National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
 10) UK Government G-Cloud
-11) Federal Information Processing Standard (FISP) 140-2
+11) Federal Information Processing Standard (FIPS) 140-2
 
+<hr>
+
+### Azure Active Directory<br>
+Azure Active Directory (Azure AD) is Microsoft's cloud-based identity and access management service, which helps your employees sign in and access resources.
+**External Resources**
+-Microsoft Office 365
+-Azure Portal
+-SaaS applications
+**Internal Resources**
+-Applications within your internal networking
+-Access to workstations on-premise
+Use Azure AD to implement Single-Sign-On (SSO)
 
