@@ -259,3 +259,17 @@ An Availability Zone (AZ) in an Azure region is a combination of a fault domain 
 * Visual Studio (Microsoft-owned) - _Code Editor_
 * Xamarin (Microsoft-owned) - _Mobile App Framework_
 
+<hr>
+
+### Azure DevOps Service
+* Azure Boards - _Kanban_
+* Azure Pipelines - _CI/CD_
+* Azure Repos - _Git repos_
+* Azure Test Plans - _manual and exploratory testing tools_
+* Azure Artifacts 
+* Azure DevTest Labs
+
+<hr>
+
+### Azure Resource Manager
+*
