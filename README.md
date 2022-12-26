@@ -403,20 +403,27 @@ browser-accessible shell _either Bash or PowerShell_
 ** Command Line Interface (CLI) processes commands to a computer program in the form of lines of text.
 
  <hr>
+ ### Follow Along
  
  #### Create a Resource Group
-** Azure Portal => Resource Group => Click on Add => Selection subscription, name and region => Click on Review + Create/ Create
-
-<hr>
+** Azure Portal => Resource Group => Click on Add => Select subscription, name and region => Click on Review + Create/ Create
 
 #### Create a vNet
 
-** Azure Portal => Virtual Network (vNet) => Click on Add => Selection subscription, resource group, virtual network name and region => Other options like IP Addresses, Security and Tags can be explored => Click on Review + Create/ Create
-
-<hr>
+** Azure Portal => Virtual Network (vNet) => Click on Add => Select subscription, resource group, virtual network name and region => Other options like IP Addresses, Security and Tags can be explored => Click on Review + Create/ Create
 
 #### Launching a Server
 
-** Azure Portal => Virtual Machine (VM) => Click on Add => Selection subscription, resource group, virtual machine name, region, availability options, Image, size, authentication options, public inbound ports- none  => Other options like Disks, Networking, Management and Advanced can be explored => Click on Review + Create/ Create
+** Azure Portal => Virtual Machine (VM) => Click on Add => Select subscription, resource group, virtual machine name, region, availability options, Image, size, authentication options, public inbound ports- none  => Other options like Disks, Networking, Management and Advanced can be explored => Click on Review + Create/ Create
 
-<hr>
+#### Creating Azure Function
+
+** Azure Portal => Function App => Click on Add => Select subscription, resource group, Function app name, publish, runtime stack, version, region => Other options like Hosting, Monitoring and Tags can be explored => Click on Review + Create/ Create => After deployment, click functions on left side of dashboard => Create Function => Code + Test
+
+#### Storing files in Blob Storage
+
+** Azure Portal => Storage accounts => Click on Add => Selection subscription, resource group, storage account name, location, performance, account kind, replication and access tier => Other options like Networking, Advanced and Tags can be explored => Click on Review + Create/ Create => Go to containers => Click on container => Add name and public access level => Now we can access the container and upload files
+
+#### Exploring Azure Cloud Shell
+
+** Azure Portal => Click on Cloud Shell => Select Bash or Powershell => Create Storage method => 
