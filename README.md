@@ -453,13 +453,18 @@ browser-accessible shell _either Bash or PowerShell_
 <hr>
 
 ### Azure Active Directory<br>
-Azure Active Directory (Azure AD) is Microsoft's cloud-based identity and access management service, which helps your employees sign in and access resources.
-**External Resources**
--Microsoft Office 365
--Azure Portal
--SaaS applications
-**Internal Resources**
--Applications within your internal networking
--Access to workstations on-premise
-Use Azure AD to implement Single-Sign-On (SSO)
+Azure Active Directory (Azure AD) is Microsoft's cloud-based identity and access management service, which helps your employees sign in and access resources.<br>
+**External Resources**<br>
+-Microsoft Office 365<br>
+-Azure Portal<br>
+-SaaS applications<br>
+**Internal Resources**<br>
+-Applications within your internal networking<br>
+-Access to workstations on-premise<br>
+Use Azure AD to implement Single-Sign-On (SSO)<br>
+_Azure Active Directory comes in four editions_ :<br>
+1. **Free** MFA, SSO, Basic Security and Usage Reports, User Management
+2. **Office 365 Apps** Company Branding, SLA, Two-Sync between On-Premise and Cloud
+3. **Premium 1** Hybrid Architecture, Advanced Group Access, Conditinal Access
+4. **Premium 2** Identity Protection, Identity Governance
 
