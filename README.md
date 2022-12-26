@@ -445,5 +445,9 @@ browser-accessible shell _either Bash or PowerShell_
 5) Health Insurance Portability and Accountability Act (HIPAA)
 6) International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) 27018
 7) Multi-Tier Cloud Security (MTCS) Singapore
-8) 
-* 
+8) Service Organization Controls (SOC) 1,2, and 3
+9) National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)
+10) UK Government G-Cloud
+11) Federal Information Processing Standard (FISP) 140-2
+
+
