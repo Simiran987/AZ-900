@@ -320,5 +320,91 @@ It is a library of pre-made Azure templates provided by the community and partne
 
 <hr>
 
-### Azure Load Balancer
+### Azure Load Balancer - is used for evenly distributing incoming network traffic across a group of backend resources or servers.
+* Azure Load Balancer operates on OSI Layer 4 (Transport)
+* You can create a : 1) Public Load Balancer incoming traffic from the internet to public-facing servers (Public IPs)
+                     2) Internal (Private Load Balancer) incoming internal network traffic to private-facing servers (Private IPs)
+                  
+<hr>
+
+### Scale Sets
+** Allows you to group identical virtual machines (VMs) and automatically increase or decrease amount of servers based on :
+* change in CPU, memory, disk and network performance
+* On a predefined schedule
+
+<hr>
+
+### IoT Services
+* IoT Central
+* IoT Hub
+* IoT Edge
+* Windows 10 IOT Core Services
+
+<hr>
+
+### Big Data and Analytics Services
+* Azure Synapse Analytics - _Data Warehousing and Big Data analytics_ **run SQL queries**
+* HDInsight - _open-souce analytics software such as Hadoop, Kafka and Spark_
+* Azure Databricks
+* Data Lake Analytics
+
+<hr>
+
+### AI/ML Services Introduction
+* Azure Mchine Learning Service
+* Azure Mchine Learning Studio (classic)
+* Personalizer
+* Translator
+* Anomaly Detector
+* Azure Bot Service
+* Form Recogniser
+* Computer Vision
+* Language Understanding
+* QnA Maker
+* Text Analytics
+* Content Moderator
+* Face
+* Ink Recogniser
+
+<hr>
+
+### Serverless Services
+* Azure Functions
+* Blog Storage
+* Logic Apps
+* Event Grid
+
+<hr>
+
+### Azure Portal
+Web-based unified console
+
+### Azure Preview Portal - Preview, Beta,Other pre-release
+_test preview features_
+
+<hr>
+
+### Azure Powershell
+** command -line shell and a scripting language
+
+<hr>
+
+### Visual Studio Code
+free source-code editor
+
+<hr>
+
+### Azure Cloud Shell
+browser-accessible shell _either Bash or PowerShell_
+
+<hr>
+
+### Azure CLI
+** Command Line Interface (CLI) processes commands to a computer program in the form of lines of text.
+
+ <hr>
+ 
+ #### Create a Resource Group
+ 
+
 
