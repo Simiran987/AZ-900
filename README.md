@@ -272,4 +272,16 @@ An Availability Zone (AZ) in an Azure region is a combination of a fault domain 
 <hr>
 
 ### Azure Resource Manager
-*
+* What is Infrastructure as Code (IaC)?<br>
+     Process of managing and provisioning computer data centers through machine readable definition files<br>
+     
+#### Azure Resource Manager (ARM) allows you to programmatically create Azure resource via JSON template.
+
+<hr>
+
+### Azure QuickStart Templates
+It is a library of pre-made Azure templates provided by the community and partners to help you quickly launch new projects for a variety of stack scenarios.
+
+<hr>
+
+###
