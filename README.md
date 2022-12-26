@@ -284,4 +284,14 @@ It is a library of pre-made Azure templates provided by the community and partne
 
 <hr>
 
-###
+### vNets and Subnets
+**Virtual Network (vNet)** is a logically isolated section of the Azure network where you launch youre Azure resources. _You choose a range of IPs using CIDR range._
+**Subnets** is a logically partition of an IP network into multiple smaller network segments. _You are breaking up your IP range for vNet into smaller networks._
+
+* A Public Subnet is one that can reach the internet
+* A Private Subnet is one that can not reach the internet
+
+<hr>
+
+### Cloud-Native Networking Services
+
