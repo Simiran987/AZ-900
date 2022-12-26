@@ -426,4 +426,24 @@ browser-accessible shell _either Bash or PowerShell_
 
 #### Exploring Azure Cloud Shell
 
-** Azure Portal => Click on Cloud Shell => Select Bash or Powershell => Create Storage method => 
+** Azure Portal => Click on Cloud Shell => Select Bash or Powershell => Create Storage method => Cloud shell commands can be used
+
+#### Azure Trust Center
+
+** A public facing website portal providing easy access to privacy, security and regulatory compliance information.
+
+#### Azure Security - Compliance Programs
+* NIST 800 - 53
+* PIPEDA Compliant
+* HIPPA Compliant
+* FIPS-140-2 Compliant
+
+1) Criminal Iustice Information Services (CJIS)
+2) Cloud Security Alliance (CSA) STAR Certification
+3) General Data Protection Regulation (GDPR)
+4) EU Model Clauses
+5) Health Insurance Portability and Accountability Act (HIPAA)
+6) International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) 27018
+7) Multi-Tier Cloud Security (MTCS) Singapore
+8) 
+* 
