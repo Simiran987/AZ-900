@@ -316,4 +316,9 @@ It is a library of pre-made Azure templates provided by the community and partne
 <hr>
 
 ### Azure DNS - allows you to host your domain names on Azure. You can create your DNS zones and manage your DNS records.
+** Azure DNS does not allow you to purchase domains. Only the ability to manage DNS records.
+
+<hr>
+
+### Azure Load Balancer
 
