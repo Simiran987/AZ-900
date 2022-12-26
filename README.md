@@ -469,4 +469,39 @@ Use Azure AD to implement **Single-Sign-On (SSO)**<br>
 2. **Office 365 Apps** Company Branding, SLA, Two-Sync between On-Premise and Cloud
 3. **Premium 1** Hybrid Architecture, Advanced Group Access, Conditinal Access
 4. **Premium 2** Identity Protection, Identity Governance
+ 
+<hr>
 
+### Multi-Factor Authentication
+
+<hr>
+
+### Azure Security Center
+unified infrastucture security management system
+
+<hr>
+
+### Key Vault
+safeguard cryptographic keys and other secrets
+* Secrets Management
+* Key Management
+* Certificate Management
+* Hardware Security Module *Multi-tenant (FIPS 140-2 Compliant)
+                           *Single-tenant (FIPS 140-3 Compliant)
+                           
+<hr>
+
+### Azure DDoS Protection (DDoS = Distributed Denial of Service)
+Two tiers of DDoS Protection
+1. DDoS Protection Basic
+* Free
+* Already turned on project Azure's global network
+2. DDoS Protection Standard
+* Starting at $2,994/month
+* Metrics, Alerts, Reporting
+* DDoS Expert Support
+* Application and Cost Protection SLAs
+
+<hr>
+
+### Azure Firewall
