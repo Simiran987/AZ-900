@@ -1,7 +1,5 @@
 # AZ900
 
-## Microsoft Azure Fundamentals: Describe cloud concepts
-
 ### Cloud Computing?
 A.  _The practice of using a network of remote servers hosted on the internet to store, manage and process data, rather a local server or personal computer._
 
@@ -572,3 +570,73 @@ For collecting, analyzing and acting on telemetry
 
 ### Service Health
 current and upcoming issues
+1. Azure Status
+2. Azure service health
+3. Azure resource health
+
+<hr>
+
+### Azure Advisor
+personalised cloud consultant
+1.High Availability
+2. Security
+3. Performance
+4. Cost
+5. Operational Excellence
+
+<hr>
+
+### Service Level Agreements (SLAs)
+uptime and connectivity
+_Performance Targets => %_
+(Azure does not provide SLAs for free tier or the shared tiers)
+
+<hr>
+
+### Service Credits
+have discount applied to their Azure bill, as compensation for an underperforming Azure product or service.
+
+<hr>
+
+### Composite SLAs
+combine SLAs<br>
+**Fallback systems**
+
+<hr>
+
+### Total Cost of Ownership (TCO) Calculator
+Estimate the cost savings
+
+<hr>
+
+### Azure Marketplace
+apps and services made available by third party publishers
+
+<hr>
+
+### Azure Support Plans
+
+<hr>
+
+### Azure Licensing
+**Windows Server licenses** - _repurpose this investment_
+* Azure Hybrid Use Benefit (HUB) - Bring Your Own License (BYOL)
+
+<hr>
+
+### Azure Subscriptions
+4 tiers
+1. Free
+2. Pay-As-You-Go(PAYG)
+3. Enterprise Agreement
+4. Student Subscription
+
+<hr>
+
+### Pricing Calculator
+
+<hr>
+
+### Azure Cost Management
+_cost analysis_ , create budgets
+
