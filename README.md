@@ -294,4 +294,26 @@ It is a library of pre-made Azure templates provided by the community and partne
 <hr>
 
 ### Cloud-Native Networking Services
+* Azure DNS
+* Azure Virtual Network (vNet)
+* Azure Load Balancer
+* Azure Application Gateway
+* Network Security Groups
+
+<hr>
+
+### Enterprise/Hybrid Networking Services
+* Azure Front Door
+* Azure Express Route
+* Virtual WAN
+* Azure Connection
+* Virtual Network Gateway
+
+<hr>
+
+### Azure Traffic Manager - operates at the DNS layer to quickly and efficiently direct incoming DNS requests based on the routing method of your choice.
+
+<hr>
+
+### Azure DNS - allows you to host your domain names on Azure. You can create your DNS zones and manage your DNS records.
 
