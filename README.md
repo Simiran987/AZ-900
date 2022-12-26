@@ -230,7 +230,7 @@ An Availability Zone (AZ) in an Azure region is a combination of a fault domain 
 
 <hr>
 
-### Database Storage
+### Database Services
 * Azure Cosmos DB - _No SQL Databases_
 * Azure SQL Database - _Fully Managed MS SQL Databases_
 * Azure Database for MySQL/PQL/MariaDB - _MySQL/PostgreSQL/Maria DB Database_
@@ -250,3 +250,12 @@ An Availability Zone (AZ) in an Azure region is a combination of a fault domain 
 * Azure logic Apps
 * Azure API Management
 * *Azure Queue Storage _Messaging Queue_
+
+<hr>
+
+### Developer and Mobile Tools
+* Azure SignalR Service - _Real-time Messaging_
+* Azure App Service - Heroku like version for Azure
+* Visual Studio (Microsoft-owned) - _Code Editor_
+* Xamarin (Microsoft-owned) - _Mobile App Framework_
+
