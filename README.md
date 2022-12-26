@@ -320,8 +320,9 @@ It is a library of pre-made Azure templates provided by the community and partne
 
 ### Azure Load Balancer - is used for evenly distributing incoming network traffic across a group of backend resources or servers.<br>
 * Azure Load Balancer operates on OSI Layer 4 (Transport)<br>
-* You can create a : 1) Public Load Balancer incoming traffic from the internet to public-facing servers (Public IPs)<br>
-                     2) Internal (Private Load Balancer) incoming internal network traffic to private-facing servers (Private IPs)<br>
+* You can create a : <br>
+  1) Public Load Balancer incoming traffic from the internet to public-facing servers (Public IPs)<br>
+  2) Internal (Private Load Balancer) incoming internal network traffic to private-facing servers (Private IPs)<br>
                   
 <hr>
 
