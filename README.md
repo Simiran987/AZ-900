@@ -461,8 +461,10 @@ Azure Active Directory (Azure AD) is Microsoft's cloud-based identity and access
 **Internal Resources**<br>
 -Applications within your internal networking<br>
 -Access to workstations on-premise<br>
-Use Azure AD to implement Single-Sign-On (SSO)<br>
-_Azure Active Directory comes in four editions_ :<br>
+
+Use Azure AD to implement **Single-Sign-On (SSO)**<br>
+
+**_Azure Active Directory comes in four editions_:**<br>
 1. **Free** MFA, SSO, Basic Security and Usage Reports, User Management
 2. **Office 365 Apps** Company Branding, SLA, Two-Sync between On-Premise and Cloud
 3. **Premium 1** Hybrid Architecture, Advanced Group Access, Conditinal Access
