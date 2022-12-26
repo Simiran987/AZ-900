@@ -405,6 +405,14 @@ browser-accessible shell _either Bash or PowerShell_
  <hr>
  
  #### Create a Resource Group
- 
+** Azure Portal => Resource Group => Click on Add => Selection subscription, name and region => Click on Create
 
+<hr>
 
+#### Create a vNet
+
+** Azure Portal => Virtual Network (vNet) => Click on Add => Selection subscription, resource group, name and region => Other options like IP Addresses, Security and Tags can be explored => Click on Create
+
+<hr>
+
+#### Launching a Server
