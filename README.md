@@ -119,6 +119,7 @@ Instead of maintaining CPUs and storage in your datacenter, you rent them for th
 * Elasticity - Your ability to shrinnk and grow to meet the demand
 * Fault Tolerance - Your ability to prevent a failure
 * Disaster Recovery - Your ability to recover from a failure **Highly Durable (HD)**
+* Agility
 
 #### High Availability -
 Multiple Datacenters and multiple servers<br>
