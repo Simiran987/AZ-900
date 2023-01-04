@@ -274,11 +274,11 @@ A. What if you’re already established with VMware in a private cloud environme
 * Grouping of resources
 * Holds logically related resources
 * Typically organizing by
-- Type
-- Lifecycle (app, environment)
-- Department
-- Billing,
-- Location or combination of those
+ 1. Type
+ 2. Lifecycle (app, environment)
+ 3. Department
+ 4. Billing,
+ 5. Location or combination of those
 
 **Resource Manager**
 * Management Layer for all resources and resource groups
@@ -292,32 +292,9 @@ A. What if you’re already established with VMware in a private cloud environme
 * Resources can be moved between the resource groups
 * Resource groups can’t be nested
 * Organize based on your organization needs but consider
-- Billing
-- Security and access management
-- Application Lifecycle
-
-<hr>
-
-### Total Cost of Ownership
-
-
-### Consumption based model
-This consumption-based model has many benefits, including:
-
-* No upfront costs.
-* No need to purchase and manage costly infrastructure that users might not use to its fullest potential.
-* The ability to pay for more resources when they're needed.
-* The ability to stop paying for resources that are no longer needed.
-
-### Compare cloud pricing models
-Cloud computing is the delivery of computing services over the internet by using a pay-as-you-go pricing model. You typically pay only for the cloud services you use, which helps you:
-* Plan and manage your operating costs.
-* Run your infrastructure more efficiently.
-* Scale as your business needs change.
-
-To put it another way, cloud computing is a way to rent compute power and storage from someone else’s datacenter. You can treat cloud resources like you would resources in your own datacenter. However, unlike in your own datacenter, when you're done using cloud resources, you give them back. You’re billed only for what you use.
-
-Instead of maintaining CPUs and storage in your datacenter, you rent them for the time that you need them. The cloud provider takes care of maintaining the underlying infrastructure for you. The cloud enables you to quickly solve your toughest business challenges and bring cutting-edge solutions to your users.
+  1. Billing
+  2. Security and access management
+  3. Application Lifecycle
 
 <hr>
 
