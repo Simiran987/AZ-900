@@ -286,19 +286,20 @@ Azure Arc is a set of technologies that helps manage your cloud environment as i
 * A zone is one or more data centers
 
 **Region Pair**
-Each region is paired with another region making it a region pair
-Region pairs are static and cannot be chosen
-Each pair resides within the same geography*
+* Each region is paired with another region making it a region pair
+* Region pairs are static and cannot be chosen
+* Each pair resides within the same geography*
 Exception is Brazil South
-Physical isolation with at least 300 miles distance (when possible)
-Some services have platform-provided replication
-Planned updates across the pairs
-Data residency maintained for disaster recovery
-Region Pair A	Region Pair B
-East US	West US
-UK West	UK South
-North Europe (Ireland)	West Europe (Netherlands)
-East Asia (Hong Kong)	Southeast Asia (Singapore)
+* Physical isolation with at least 300 miles distance (when possible)
+* Some services have platform-provided replication
+* Planned updates across the pairs
+* Data residency maintained for disaster recovery
+|      Region Pair A  	 |   Region Pair B          |
+| --------------------- | ------------------------ |
+|          East US	     |       West US            |
+|         UK West	      |       UK South           |
+|North Europe (Ireland) |West Europe(Netherlands)  |
+|East Asia (Hong Kong)	 |Southeast Asia (Singapore)|
 
 **Geographies**
 * Discrete market
