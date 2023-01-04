@@ -48,11 +48,26 @@ Differences between Capital Expenditure and Operational Expenditure
 | Up front cost    |        Significant         |             None               |
 | Ongoing cost     |            Low             |           Based on usage       |
 | Tax Deduction	   |         Over time	        |            Same year           |
-|Early Termination |	          No	            |             Anytime            |
-|Maintenance	     |          Significant	      |               Low              |
-|Value over time	 |            Lowers	        |             No change          |
+|Early Termination |	          No	        |             Anytime            |
+|Maintenance	   |          Significant	|               Low              |
+|Value over time   |            Lowers	        |             No change          |
 
 <hr>
+
+### What is a consumption-based model?
+The consumption-based model is a pricing model used in the cloud so that customers are only charged based on their resource usage.
+
+This model is characterized by-
+
+* **No associated upfront cost**
+* **No wasted resources as such no charges are incurred for unused resources**. Unused in this case is different per service. For instance, blob storage that stores any data is considered to be used, as it consumes the storage space. Virtual Machines that are running consume CPU, memory and other resources even if there isn’t any traffic. Hence they are considered to be used and will incur charges.
+* **Pay for what you need**
+* **Stop paying when you don’t**
+
+Consumption is the virtual metric used to calculate how much each resource (service) in Azure was used. Each service has many smaller metrics that track its consumption to offer best possible pricing model. Those metrics are tracked on very granular level.
+
+<hr>
+
 ### Types of Cloud Computing
 1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
         Example - Salesforce, Gmail, Office 365. ~For Customers
