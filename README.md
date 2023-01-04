@@ -10,7 +10,6 @@ Service delivery model over the internet (cloud). This includes but is not limit
 * **networking** in azure but also outside when connecting to your company network
 * **analytics** services for visualization and telemetry data
 
-**i. Dedicated Server, ii.Virtual Private Server, iii.Shared Hosting, iv. Cloud Hosting**
 
 **Benefits of Cloud Computing**
 1. Cost effective
@@ -30,6 +29,16 @@ Service delivery model over the internet (cloud). This includes but is not limit
  **availability = uptime/(uptime + downtime)**
 <hr>
 
+**Economies of Scale**
+The principle of economies of scale states that as the companies grow they become more effective at managing shared operations. Be that HR and hiring, taxes, accounting, internal operations, marketing, big purchases via contracts meaning better discounts, etc. etc.
+
+Because of those, companies can save/earn more which in return allows for reduction in cost of their services to their customers. This is so called ‘price per unit’.
+
+It’s not possible to go to 0 because in the end some underlying infrastructure needs to run to provide the services. But the larger the scale the more benefits can be passed to customers.
+
+In fact, in the current scale, Microsoft can already offer multiple services for free due to how small a fraction of the cost it is for them.
+
+<hr>
 ### Types of Cloud Computing
 1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
         Example - Salesforce, Gmail, Office 365. ~For Customers
