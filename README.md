@@ -39,7 +39,7 @@ Service delivery model over the internet (cloud). This includes but is not limit
 * Agility
 
 #### High Availability -
-       Multiple Datacenters and multiple servers<br>
+  Multiple Datacenters and multiple servers<br>
        
  **Azure Load Balancer**<br>
   A load balancer would evenly distribute traffic to multiple servers in one or more datacenters and if a datacenter or server becomes unavailable (unhealthy), it will route to only available datacenters with servers to ensure availability.
@@ -49,15 +49,15 @@ Service delivery model over the internet (cloud). This includes but is not limit
        2. Horizontal Scaling - (Scaling Out) Add more servers of the same size.
 
 #### High Elasticity -
-       Automatically adding or removing servers to increase or decrease capacity based on the current demand of traffic, memory and computing power.<br>
+ Automatically adding or removing servers to increase or decrease capacity based on the current demand of traffic, memory and computing power.<br>
        
 _Vertical Scaling_
 - Scaling Up - Upgrade to a bigger server
 - Scaling Down - Downgrade to a smaller server
  
  _Horizontal Scaling_ <br>
--  Scaling Out - Add more servers of the same size<br>
--  Scaling In - Remove more servers of the same size<br>
+- Scaling Out - Add more servers of the same size<br>
+- Scaling In - Remove more servers of the same size<br>
   
  **Azure VM Scale Sets**<br>
 Automatically increase or decrease in response to demand or a defined schedule.
@@ -294,6 +294,7 @@ Europe,
 Asia Pacific,
 Middle East and Africa
 * Each region belongs only to one Geography
+
 <hr>
 
 ### Azure VMware Solution
