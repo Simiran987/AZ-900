@@ -191,70 +191,15 @@ _Disadvantages_
 <hr>
 
 ### Types of Cloud Computing
-1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
+1. **SaaS** - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
         Example - Salesforce, Gmail, Office 365. ~For Customers
-2. PaaS - Focus on the deployment and management of your apps. _Don't worry about provisioning, configuring and understanding the Hardware or OS._
+2. **PaaS** - Focus on the deployment and management of your apps. _Don't worry about provisioning, configuring and understanding the Hardware or OS._
           Example - Beanstalk, AWS Heroku, Google App Engine. ~For Developers
-3. IaaS - Provides access to networking features, computers and data storage space.  _Don't worry about IT staff, data centres and hardware._
+3. **IaaS** - Provides access to networking features, computers and data storage space.  _Don't worry about IT staff, data centres and hardware._
           Example - Microsoft Azure, AWS, Oracle Cloud. ~For Administrators
-          
-<hr>
 
-### Types of Cloud Computing Services
-A.
 
 <img src="https://learn.microsoft.com/en-us/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg" alt="Visual representation">
-
-**You’ll always be responsible for:**
-<ul>
-<li>The information and data stored in the cloud</li>
-<li>Devices that are allowed to connect to your cloud (cell phones, computers, and so on)</li>
-<li>The accounts and identities of the people, services, and devices within your organization</li>
-</ul>
-
-**The cloud provider is always responsible for:**
-<ul>
-<li>The physical datacenter</li>
-<li>The physical network</li>
-<li>The physical hosts</li>
-</ul>
-
-**Your service model will determine responsibility for things like:**
-<ul>
-<li>Operating systems</li>
-<li>Network controls</li>
-<li>Applications</li>
-<li>Identity and infrastructure</li>
-</ul>
-
-<hr>
-
-### Azure's Deployment Models
-The cloud models define the deployment type of cloud resources. The three main cloud models are: private, public, and hybrid.
-
-#### Private Cloud: 
-Everything built on company's datacenters. Also known as On-Premise. The cloud could be OpenStack.
-  1. Used by a single entity
-  2. Much greater control for the company and its IT departmen
-  3. Greater cost and fewer of the benefits of a public cloud deployment
-  4. May be hosted from your on site datacenter or  be hosted in a dedicated datacenter offsite,
-               potentially even by a third party that has dedicated that datacenter to your company
-
-#### Public Cloud: 
-Everything is built on the cloud provider. Also known as Cloud-Native. 
-  1. Built, controlled, and maintained by a third-party cloud provider
-  2. Anyone that wants to purchase cloud services can access and use resources
-              
-#### Hybrid Cloud: 
-Using both On-Premise and a Cloud Service Provider. 
-  1. Uses both public and private clouds in an inter-connected environment
-  2. Can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources
-  3. Hybrid cloud can be used to provide an extra layer of security.
-        For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private 
-              cloud infrastructure
-             
-#### Cross-Cloud / Multi-cloud
-Azure Arc is a set of technologies that helps manage your cloud environment as it extends the user's control plane.
 
 <hr>
 
