@@ -39,6 +39,17 @@ It’s not possible to go to 0 because in the end some underlying infrastructure
 In fact, in the current scale, Microsoft can already offer multiple services for free due to how small a fraction of the cost it is for them.
 
 <hr>
+**CapEx vs OpEx**
+Differences between Capital Expenditure and Operational Expenditure
+
+                  |     Capital Expenditure	| Operational Expenditure |
+Up front cost	  |         Significant	        |          None           |
+Ongoing cost	  |            Low	        |      Based on usage     |
+Tax Deduction	  |         Over time	        |         Same year       |
+Early Termination |	        No	        |          Anytime        |
+Maintenance	  |          Significant	|            Low          |
+Value over time	  |            Lowers	        |         No change       |
+<hr>
 ### Types of Cloud Computing
 1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
         Example - Salesforce, Gmail, Office 365. ~For Customers
