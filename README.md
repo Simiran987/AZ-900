@@ -3,8 +3,12 @@
 ### Cloud Computing?
 A.  _The practice of using a network of remote servers hosted on the internet to store, manage and process data, rather a local server or personal computer._
 
-Cloud computing is the delivery of computing services over the internet. Computing services include common IT infrastructure such as virtual machines, storage, databases, and networking.Cloud services also expand the traditional IT offerings to include things like Internet of Things (IoT), machine learning (ML), and artificial intelligence (AI).
-            Mainly, every cloud provider provides a) Compute Power and b) Storage
+Service delivery model over the internet (cloud). This includes but is not limited to
+
+* compute power meaning servers such as windows, linux, hosting environments, etc.
+* storage like files and/or databases
+* networking in azure but also outside when connecting to your company network
+* analytics services for visualization and telemetry data
 
 **i. Dedicated Server, ii.Virtual Private Server, iii.Shared Hosting, iv. Cloud Hosting**
 
