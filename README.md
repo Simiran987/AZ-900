@@ -54,7 +54,7 @@ Differences between Capital Expenditure and Operational Expenditure
 
 <hr>
 
-### What is a consumption-based model?
+### What is a consumption-based model?<br>
 The consumption-based model is a pricing model used in the cloud so that customers are only charged based on their resource usage.
 
 This model is characterized by-
@@ -68,7 +68,7 @@ Consumption is the virtual metric used to calculate how much each resource (serv
 
 <hr>
 
-**Service Models responsibilities**
+**Service Models responsibilities**<br>
 As a service means which party will manage the particular layer and all the layers below.
 
 * **Software layer** consists the application (application code and set) & the application data
@@ -188,6 +188,7 @@ _Disadvantages_
 * Most dependent on IT skills & expertise from all three models
 
 <hr>
+
 ### Types of Cloud Computing
 1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
         Example - Salesforce, Gmail, Office 365. ~For Customers
