@@ -5,10 +5,10 @@ A.  _The practice of using a network of remote servers hosted on the internet to
 
 Service delivery model over the internet (cloud). This includes but is not limited to
 
-* compute power meaning servers such as windows, linux, hosting environments, etc.
-* storage like files and/or databases
-* networking in azure but also outside when connecting to your company network
-* analytics services for visualization and telemetry data
+* **compute power** meaning servers such as windows, linux, hosting environments, etc.
+* **storage** like files and/or databases
+* **networking** in azure but also outside when connecting to your company network
+* **analytics** services for visualization and telemetry data
 
 **i. Dedicated Server, ii.Virtual Private Server, iii.Shared Hosting, iv. Cloud Hosting**
 
