@@ -27,9 +27,10 @@ Service delivery model over the internet (cloud). This includes but is not limit
 - **disaster recovery** is the process and design principle which allows a system to recovers from natural or human induced disasters
 - **high availability** is the agreed level of operational uptime for the system. It is a simple calculation of system uptime versus whole lifetime of the system.
  **availability = uptime/(uptime + downtime)**
+ 
 <hr>
 
-**Economies of Scale**<br>
+### Economies of Scale<br>
 The principle of economies of scale states that as the companies grow they become more effective at managing shared operations. Be that HR and hiring, taxes, accounting, internal operations, marketing, big purchases via contracts meaning better discounts, etc. etc.
 
 Because of those, companies can save/earn more which in return allows for reduction in cost of their services to their customers. This is so called ‘price per unit’.
@@ -40,7 +41,7 @@ In fact, in the current scale, Microsoft can already offer multiple services for
 
 <hr>
 
-**CapEx vs OpEx**
+### CapEx vs OpEx
 Differences between Capital Expenditure and Operational Expenditure
 
 |                  |   Capital Expenditure      |    Operational Expenditure     |
@@ -68,7 +69,7 @@ Consumption is the virtual metric used to calculate how much each resource (serv
 
 <hr>
 
-**Service Models responsibilities**<br>
+### Service Models responsibilities<br>
 As a service means which party will manage the particular layer and all the layers below.
 
 * **Software layer** consists the application (application code and set) & the application data
@@ -104,7 +105,7 @@ As such following table represents responsibilities-
 
 <hr>
 
-**Cloud Deployment Model**
+### Cloud Deployment Model
 Cloud Deployment Model is simple a separation which describes where are the company resources deployed. Whenever this is in public cloud provider environment or private datacenter.
 
 Below table presents high level deployment model separation
