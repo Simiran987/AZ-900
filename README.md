@@ -274,11 +274,11 @@ A. What if you’re already established with VMware in a private cloud environme
 * Grouping of resources
 * Holds logically related resources
 * Typically organizing by
--Type
--Lifecycle (app, environment)
--Department
--Billing,
--Location or combination of those
+- Type
+- Lifecycle (app, environment)
+- Department
+- Billing,
+- Location or combination of those
 
 **Resource Manager**
 * Management Layer for all resources and resource groups
@@ -292,9 +292,9 @@ A. What if you’re already established with VMware in a private cloud environme
 * Resources can be moved between the resource groups
 * Resource groups can’t be nested
 * Organize based on your organization needs but consider
--Billing
--Security and access management
--Application Lifecycle
+- Billing
+- Security and access management
+- Application Lifecycle
 
 <hr>
 
