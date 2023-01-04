@@ -29,7 +29,7 @@ Service delivery model over the internet (cloud). This includes but is not limit
  **availability = uptime/(uptime + downtime)**
 <hr>
 
-**Economies of Scale**
+**Economies of Scale**<br>
 The principle of economies of scale states that as the companies grow they become more effective at managing shared operations. Be that HR and hiring, taxes, accounting, internal operations, marketing, big purchases via contracts meaning better discounts, etc. etc.
 
 Because of those, companies can save/earn more which in return allows for reduction in cost of their services to their customers. This is so called ‘price per unit’.
@@ -39,16 +39,19 @@ It’s not possible to go to 0 because in the end some underlying infrastructure
 In fact, in the current scale, Microsoft can already offer multiple services for free due to how small a fraction of the cost it is for them.
 
 <hr>
+
 **CapEx vs OpEx**
 Differences between Capital Expenditure and Operational Expenditure
 
-                  |     Capital Expenditure	| Operational Expenditure |
-Up front cost	  |         Significant	        |          None           |
-Ongoing cost	  |            Low	        |      Based on usage     |
-Tax Deduction	  |         Over time	        |         Same year       |
-Early Termination |	        No	        |          Anytime        |
-Maintenance	  |          Significant	|            Low          |
-Value over time	  |            Lowers	        |         No change       |
+|                  |   Capital Expenditure      |    Operational Expenditure     |
+| ---------------- | -------------------------- | ------------------------------ |
+| Up front cost    |        Significant         |             None               |
+| Ongoing cost     |            Low             |           Based on usage       |
+| Tax Deduction	   |         Over time	        |            Same year           |
+|Early Termination |	          No	            |             Anytime            |
+|Maintenance	     |          Significant	      |               Low              |
+|Value over time	 |            Lowers	        |             No change          |
+
 <hr>
 ### Types of Cloud Computing
 1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
