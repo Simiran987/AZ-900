@@ -274,16 +274,16 @@ Azure Arc is a set of technologies that helps manage your cloud environment as i
 * Special partnered regions (China East, China North)
 
 **Availability Zone**
-Regional feature
-Grouping of physically separate facilities
-Designed to protect from data center failures
-If zone goes down others continue working
-Two service categories
-Zonal services (Virtual Machines, Disks, etc.)
-Zone-redundant services (SQL, Storage, etc.)
-Not all regions are supported
-Supported region has three or more zones
-A zone is one or more data centers
+* Regional feature
+* Grouping of physically separate facilities
+* Designed to protect from data center failures
+* If zone goes down others continue working
+* Two service categories
+1. Zonal services (Virtual Machines, Disks, etc.)
+2. Zone-redundant services (SQL, Storage, etc.)
+* Not all regions are supported
+* Supported region has three or more zones
+* A zone is one or more data centers
 
 **Region Pair**
 Each region is paired with another region making it a region pair
@@ -301,16 +301,16 @@ North Europe (Ireland)	West Europe (Netherlands)
 East Asia (Hong Kong)	Southeast Asia (Singapore)
 
 **Geographies**
-Discrete market
-Typically contains two or more regions
-Ensures data residency, sovereignty, resiliency, and compliance requirements are met
-Fault tolerant to protect from region wide failures
-Broken up into areas
+* Discrete market
+* Typically contains two or more regions
+* Ensures data residency, sovereignty, resiliency, and compliance requirements are met
+* Fault tolerant to protect from region wide failures
+* Broken up into areas
 Americas,
 Europe,
 Asia Pacific,
 Middle East and Africa
-Each region belongs only to one Geography
+* Each region belongs only to one Geography
 <hr>
 ### Azure VMware Solution
 A. What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
