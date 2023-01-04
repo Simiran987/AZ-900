@@ -239,6 +239,7 @@ Exception is Brazil South
 * Some services have platform-provided replication
 * Planned updates across the pairs
 * Data residency maintained for disaster recovery
+
 |      Region Pair A  	 |   Region Pair B          |
 | --------------------- | ------------------------ |
 |          East US	     |       West US            |
