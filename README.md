@@ -52,7 +52,7 @@ Automatically adding or removing servers to increase or decrease capacity based 
 _Horizontal Scaling_ <br>
 - Scaling Out- Add more servers of the same size<br>
 -  Scaling In- Remove more servers of the same size<br>
--  
+  
  **Azure VM Scale Sets**<br>
 Automatically increase or decrease in response to demand or a defined schedule.
 
@@ -322,12 +322,13 @@ A. What if you’re already established with VMware in a private cloud environme
 * Resources can be moved between the resource groups
 * Resource groups can’t be nested
 * Organize based on your organization needs but consider
-  1. Billing
-  2. Security and access management
-  3. Application Lifecycle
+   1. Billing
+   2. Security and access management
+   3. Application Lifecycle
 
 <hr>
-Virtualization
+
+**Virtualization**
 Emulation of physical machines
 Different virtual hardware configuration per machine/app
 Different operating systems per machine/app
@@ -337,7 +338,8 @@ services,
 ports,
 middleware,
 configuration
-Virtual Machines
+
+**Virtual Machines**
 Infrastructure as a Service (IaaS)
 Total control over the operating system and the software
 Supports marketplace and custom images
@@ -350,12 +352,14 @@ databases,
 desktop applications,
 jumpboxes,
 gateways, etc.
-Virtual Machine Scale Sets
+
+**Virtual Machine Scale Sets**
 Infrastructure as a Service (IaaS)
 Set of identical virtual machines
 Built-in auto scaling features
 Designed for manual and auto-scaled workloads like web services,* batch processing, etc.
-Containers
+
+**Containers**
 Use host’s operating system
 Emulate operating system (VMs emulate hardware)
 Lightweight (no O/S)
@@ -364,7 +368,8 @@ Maintenance
 Compute & storage requirements
 Respond quicker to demand changes
 Designed for almost any scenario
-Azure Container Instances
+
+**Azure Container Instances**
 Simplest and fastest way to run a container in Azure
 Platform as a Service
 Serverless Containers
@@ -372,51 +377,33 @@ Designed for
 Small and simple web apps/services
 Background jobs
 Scheduled scripts
-Azure Kubernetes Service (AKS)
+
+**Azure Kubernetes Service (AKS)**
 Open-source container orchestration platform
 Platform as a Service
 Highly scalable and customizable
 Designed for high scale container deployments (anything really!)
-App Service
+
+**App Service**
 Designed as enterprise grade web application service
 Platform as a Service
 Supports multiple programming languages and containers
-Azure Functions (Function Apps)
+
+**Azure Functions (Function Apps)**
 Platform as a Service
 Serverless
 Two hosting/pricing models
 Consumption-based plan
 Dedicated plan
 Designed for micro/nano-services
-Summary
+
+**Summary**
 Virtual Machines (IaaS) - Custom software, custom requirements, very specialized, high degree of control
 VM Scale Sets (IaaS) - Auto-scaled workloads for VMs
 Container Instances (PaaS) - Simple container hosting, easy to start
 Kubernetes Service (PaaS) - Highly scalable and customizable * container hosting platform
 App Services (PaaS) - Web applications, a lot of enterprise web * hosting features, easy to start
 Functions (PaaS) (Function as a Service) (Serverless) - micro/nano-services, excellent consumption-based pricing, easy to start
-### Evolution of Computing
-*Dedicated* =><br>
-              **_Cons_**<br>
-              Wholly utilized by a single customer<br>
-              **_Pros_**<br>
-              Guarantee of security, privacy and full utility of underlying resources<br>
-              
-*VMs* => mutliple virtual machines on one machine through - Hypervisor<br>
-         **_Cons_**<br>
-         Multiple apps on a single virtual machine can result in conflicts in resource sharing.<br>
-         
-*Containers* =>  Virtual machines running on multiple containers using Docker Daemon<br>
-                 **_Pros_**<br>
-                 Maximum utilization of the available capacity so cost-effective<br>
-                 Containers are more efficient than multiple VMs, as they share the same underlying OS<br>
-                 Multiple apps can run side by side and will not cause conflicts in resource sharing<br>
-              
-*Functions* => A managed VM running managed containers, known as Serverless Compute<br>
-               **_Pros_**<br>
-               Ver cost-effective<br>
-               **_Cons_**<br>
-               Cold Starts are a side-effect of this setup<br>
            
 <hr>
 
