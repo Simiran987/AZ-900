@@ -30,6 +30,36 @@ Service delivery model over the internet (cloud). This includes but is not limit
  
 <hr>
 
+ ### Cloud Architecture Terminologies
+* Availability - Your ability to ensure service remains available **Highly Available (HA)**
+* Scalability - Your ability to grow rapidly or unimpeded
+* Elasticity - Your ability to shrinnk and grow to meet the demand
+* Fault Tolerance - Your ability to prevent a failure
+* Disaster Recovery - Your ability to recover from a failure **Highly Durable (HD)**
+* Agility
+
+#### High Availability -
+Multiple Datacenters and multiple servers<br>
+ **Azure Load Balancer**<br>
+  A load balancer would evenly distribute traffic to multiple servers in one or more datacenters and if a datacenter or server becomes unavailable (unhealthy), it will route to only available datacenters with servers to ensure availability.
+
+#### High Scalability -
+1. Vertical Scaling - (Scaling Up) Upgrade to a bigger server.
+2. Horizontal Scaling - (Scaling Out) Add more servers of the same size.
+
+#### High Elasticity -
+Automatically adding or removing servers to increase or decrease capacity based on the current demand of traffic, memory and computing power.<br>
+_Horizontal Scaling_ <br>
+- Scaling Out- Add more servers of the same size<br>
+-  Scaling In- Remove more servers of the same size<br>
+-  
+ **Azure VM Scale Sets**<br>
+Automatically increase or decrease in response to demand or a defined schedule.
+
+#### High Durability
+
+<hr>
+
 ### Economies of Scale<br>
 The principle of economies of scale states that as the companies grow they become more effective at managing shared operations. Be that HR and hiring, taxes, accounting, internal operations, marketing, big purchases via contracts meaning better discounts, etc. etc.
 
@@ -274,11 +304,11 @@ A. What if you’re already established with VMware in a private cloud environme
 * Grouping of resources
 * Holds logically related resources
 * Typically organizing by
- 1. Type
- 2. Lifecycle (app, environment)
- 3. Department
- 4. Billing,
- 5. Location or combination of those
+   1. Type
+   2. Lifecycle (app, environment)
+   3. Department
+   4. Billing,
+   5. Location or combination of those
 
 **Resource Manager**
 * Management Layer for all resources and resource groups
@@ -297,36 +327,74 @@ A. What if you’re already established with VMware in a private cloud environme
   3. Application Lifecycle
 
 <hr>
-
-### Cloud Architecture Terminologies
-* Availability - Your ability to ensure service remains available **Highly Available (HA)**
-* Scalability - Your ability to grow rapidly or unimpeded
-* Elasticity - Your ability to shrinnk and grow to meet the demand
-* Fault Tolerance - Your ability to prevent a failure
-* Disaster Recovery - Your ability to recover from a failure **Highly Durable (HD)**
-* Agility
-
-#### High Availability -
-Multiple Datacenters and multiple servers<br>
- **Azure Load Balancer**<br>
-  A load balancer would evenly distribute traffic to multiple servers in one or more datacenters and if a datacenter or server becomes unavailable (unhealthy), it will route to only available datacenters with servers to ensure availability.
-
-#### High Scalability -
-1. Vertical Scaling - (Scaling Up) Upgrade to a bigger server.
-2. Horizontal Scaling - (Scaling Out) Add more servers of the same size.
-
-#### High Elasticity -
-Automatically adding or removing servers to increase or decrease capacity based on the current demand of traffic, memory and computing power.<br>
-_Horizontal Scaling_ <br>
-- Scaling Out- Add more servers of the same size<br>
--  Scaling In- Remove more servers of the same size<br>
- **Azure VM Scale Sets**<br>
-Automatically increase or decrease in response to demand or a defined schedule.
-**SQL Server Stretch Database**<br>
-
-#### High Durability -
-<hr>
-
+Virtualization
+Emulation of physical machines
+Different virtual hardware configuration per machine/app
+Different operating systems per machine/app
+Total separation of environments
+file systems,
+services,
+ports,
+middleware,
+configuration
+Virtual Machines
+Infrastructure as a Service (IaaS)
+Total control over the operating system and the software
+Supports marketplace and custom images
+Best suited for
+Custom software requiring custom system configuration
+Lift-and-shift scenarios
+Can run any application/scenario
+web apps & web services,
+databases,
+desktop applications,
+jumpboxes,
+gateways, etc.
+Virtual Machine Scale Sets
+Infrastructure as a Service (IaaS)
+Set of identical virtual machines
+Built-in auto scaling features
+Designed for manual and auto-scaled workloads like web services,* batch processing, etc.
+Containers
+Use host’s operating system
+Emulate operating system (VMs emulate hardware)
+Lightweight (no O/S)
+Development Effort
+Maintenance
+Compute & storage requirements
+Respond quicker to demand changes
+Designed for almost any scenario
+Azure Container Instances
+Simplest and fastest way to run a container in Azure
+Platform as a Service
+Serverless Containers
+Designed for
+Small and simple web apps/services
+Background jobs
+Scheduled scripts
+Azure Kubernetes Service (AKS)
+Open-source container orchestration platform
+Platform as a Service
+Highly scalable and customizable
+Designed for high scale container deployments (anything really!)
+App Service
+Designed as enterprise grade web application service
+Platform as a Service
+Supports multiple programming languages and containers
+Azure Functions (Function Apps)
+Platform as a Service
+Serverless
+Two hosting/pricing models
+Consumption-based plan
+Dedicated plan
+Designed for micro/nano-services
+Summary
+Virtual Machines (IaaS) - Custom software, custom requirements, very specialized, high degree of control
+VM Scale Sets (IaaS) - Auto-scaled workloads for VMs
+Container Instances (PaaS) - Simple container hosting, easy to start
+Kubernetes Service (PaaS) - Highly scalable and customizable * container hosting platform
+App Services (PaaS) - Web applications, a lot of enterprise web * hosting features, easy to start
+Functions (PaaS) (Function as a Service) (Serverless) - micro/nano-services, excellent consumption-based pricing, easy to start
 ### Evolution of Computing
 *Dedicated* =><br>
               **_Cons_**<br>
