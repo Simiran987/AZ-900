@@ -68,16 +68,6 @@ Consumption is the virtual metric used to calculate how much each resource (serv
 
 <hr>
 
-### Types of Cloud Computing
-1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
-        Example - Salesforce, Gmail, Office 365. ~For Customers
-2. PaaS - Focus on the deployment and management of your apps. _Don't worry about provisioning, configuring and understanding the Hardware or OS._
-          Example - Beanstalk, AWS Heroku, Google App Engine. ~For Developers
-3. IaaS - Provides access to networking features, computers and data storage space.  _Don't worry about IT staff, data centres and hardware._
-          Example - Microsoft Azure, AWS, Oracle Cloud. ~For Administrators
-          
-<hr>
-
 **Service Models responsibilities**
 As a service means which party will manage the particular layer and all the layers below.
 
@@ -112,6 +102,16 @@ As such following table represents responsibilities-
 |   Networking	   |     You	  | Cloud provider | Cloud provider | Cloud provider |
 |    Storage	   |     You	  | Cloud provider | Cloud provider | Cloud provider |
 
+<hr>
+
+### Types of Cloud Computing
+1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
+        Example - Salesforce, Gmail, Office 365. ~For Customers
+2. PaaS - Focus on the deployment and management of your apps. _Don't worry about provisioning, configuring and understanding the Hardware or OS._
+          Example - Beanstalk, AWS Heroku, Google App Engine. ~For Developers
+3. IaaS - Provides access to networking features, computers and data storage space.  _Don't worry about IT staff, data centres and hardware._
+          Example - Microsoft Azure, AWS, Oracle Cloud. ~For Administrators
+          
 <hr>
 
 ### Types of Cloud Computing Services
