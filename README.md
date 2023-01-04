@@ -104,6 +104,90 @@ As such following table represents responsibilities-
 
 <hr>
 
+**Cloud Deployment Model**
+Cloud Deployment Model is simple a separation which describes where are the company resources deployed. Whenever this is in public cloud provider environment or private datacenter.
+
+Below table presents high level deployment model separation
+
+|   Layer	 |     Cloud Provider	|  Own Datacenter |
+| -------------- | -------------------- | ----------------|
+|    Public	 |         ✅	      |        ✖        |
+|    Hybrid	 |        ✅	      |        ✅       |
+|    Private	 |         ✖	       |        ✅       |
+
+**Public Cloud**
+|      Cloud Provider   |      Own Datacenter     |
+| --------------------- | ----------------------- |
+|         ✅	       |            ✖           |
+
+_Key Characteristics_
+
+* Everything runs on cloud provider hardware
+* No local hardware
+* Some services share hardware with other customers
+
+_Advantages_
+
+* No CapEx (No initial investment)
+* High Availability
+* Agility
+* Pay as you Go (PAYG) pricing
+* No hardware maintenance
+* No deep technical skills required
+
+_Disadvantages_
+
+* Not all security and compliance policies can be met
+* No ownership over the physical infrastructure
+* Rare specific scenarios can’t be done
+
+**Private Cloud**
+|      Cloud Provider      |     Own Datacenter     |
+| ------------------------ | ---------------------- |
+|           ✖              |    	✅         |
+
+_Key Characteristics_
+
+* Everything runs on your own datacenter
+* Self-service should be provided
+* You maintain the hardware
+
+_Advantages_
+
+* Can support any scenario
+* Total control over security and infrastructure
+* Can meet any security and compliance policy
+
+_Disadvantages_
+
+* Initial investment is required (CapEx)
+* Limited agility constrained by server capacity and team skills
+* Very dependent on IT skills & expertise
+
+**Hybrid Cloud**
+|      Cloud Provider	|       Own Datacenter     |
+| --------------------- | ------------------------ |
+|          ✅           |        ✅               |
+
+_Key Characteristics_
+
+* Combines both Public & Private cloud
+
+_Advantages_
+
+* Great flexibility
+* You can run any legacy apps in private cloud
+* Can utilize existing infrastructure
+* Meet any security& compliance requirements
+* Can take advantage of all public cloud benefits
+
+_Disadvantages_
+
+* Can be more expensive
+* Complicated to manage due to larger landscape
+* Most dependent on IT skills & expertise from all three models
+
+<hr>
 ### Types of Cloud Computing
 1. SaaS - A product that is run and managed by service provider.  _Don't worry about how the service is maintained. It just works and remains available._
         Example - Salesforce, Gmail, Office 365. ~For Customers
